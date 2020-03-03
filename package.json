@@ -1,0 +1,23 @@
+{
+  "name": "electron-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auztin410/electron-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/auztin410/electron-test/issues"
+  },
+  "homepage": "https://github.com/auztin410/electron-test#readme",
+  "dependencies": {
+    "electron": "^8.0.2"
+  }
+}
